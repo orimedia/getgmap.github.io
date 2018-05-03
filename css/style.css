@@ -16,13 +16,13 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Roboto", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #33435a;
-  background-color: #3c4f6a;
+  background-color: white;
 }
 
 a {
-  color: #d95353;
+  color: #006838;;
   text-decoration: none;
 }
 
@@ -32,7 +32,7 @@ img {
 
 /* -------------------------------- 
 
-Modules - reusable parts of our design
+Modules
 
 -------------------------------- */
 .cd-container {
@@ -82,7 +82,7 @@ header h1 {
   position: relative;
   margin: 0 auto;
   width: 100%;
-  max-width: 450px;
+  max-width: 1000px;
 }
 .cd-product-wrapper > img {
   display: block;
@@ -96,11 +96,11 @@ header h1 {
   position: relative;
   z-index: 2;
   display: block;
-  width: 30px;
-  height: 30px;
+  width: 1em;
+  height: 1em;
   border-radius: inherit;
-  background: #d95353;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  background: #006838;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3), inset 0 2px 0 rgba(255, 255, 255, 0.3);
   -webkit-transition: background-color 0.2s;
   -moz-transition: background-color 0.2s;
   transition: background-color 0.2s;
@@ -128,14 +128,14 @@ header h1 {
 }
 .cd-single-point > a::after {
   height: 2px;
-  width: 12px;
+  width: 8px;
 }
 .cd-single-point > a::before {
-  height: 12px;
+  height: 8px;
   width: 2px;
 }
-.cd-single-point::after {
-  /* this is used to create the pulse animation */
+.cd-single-point:hover::after {
+  /* this is used to create the pulse animation on hover*/
   content: '';
   position: absolute;
   z-index: 1;
@@ -162,8 +162,12 @@ header h1 {
   left: 20%;
 }
 .cd-single-point:nth-of-type(4) {
-  top: 20%;
+  top: 40%;
   right: 22%;
+}
+.cd-single-point:nth-of-type(5) {
+  top: 40%;
+  right: 50%;
 }
 .cd-single-point.is-open > a {
   background-color: #475f74;
@@ -261,6 +265,7 @@ header h1 {
   }
 }
 .cd-single-point .cd-more-info {
+  border: 3px solid #2BB673;
   position: fixed;
   top: 0;
   left: 0;
@@ -294,22 +299,28 @@ header h1 {
   border: 8px solid transparent;
 }
 .cd-single-point .cd-more-info h2 {
+  color: #006838;
   font-size: 22px;
-  font-size: 1.375rem;
+  font-size: 1.25rem;
   margin-bottom: .6em;
+  font-weight: "bold;
 }
 .cd-single-point .cd-more-info p {
-  color: #758eb1;
+  color: black;
+  padding-left: 1em;
+}
+.bolding-spot {
+  font-weight: "bold;
 }
 @media only screen and (min-width: 600px) {
   .cd-single-point .cd-more-info {
     position: absolute;
-    width: 220px;
+    width: 270px;
     height: 240px;
     padding: 1em;
     overflow-y: visible;
     line-height: 1.4;
-    border-radius: 0.25em;
+    border-radius: 0.937em;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   }
   .cd-single-point .cd-more-info::before {
@@ -338,14 +349,14 @@ header h1 {
     left: auto;
   }
   .cd-single-point .cd-more-info.cd-left::before {
-    border-left-color: rgba(255, 255, 255, 0.95);
+    border-left-color: #2BB673;
     left: 100%;
   }
   .cd-single-point .cd-more-info.cd-right {
     left: 160%;
   }
   .cd-single-point .cd-more-info.cd-right::before {
-    border-right-color: rgba(255, 255, 255, 0.95);
+    border-right-color: #2BB673;
     right: 100%;
   }
   .cd-single-point .cd-more-info.cd-top, .cd-single-point .cd-more-info.cd-bottom {
@@ -371,14 +382,14 @@ header h1 {
     top: auto;
   }
   .cd-single-point .cd-more-info.cd-top::before {
-    border-top-color: rgba(255, 255, 255, 0.95);
+    border-top-color: #2BB673;
     top: 100%;
   }
   .cd-single-point .cd-more-info.cd-bottom {
     top: 160%;
   }
   .cd-single-point .cd-more-info.cd-bottom::before {
-    border-bottom-color: rgba(255, 255, 255, 0.95);
+    border-bottom-color: #2BB673;
     bottom: 100%;
   }
   .cd-single-point .cd-more-info h2 {
