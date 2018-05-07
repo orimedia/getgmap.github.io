@@ -148,17 +148,17 @@ header h1 {
   -moz-animation: cd-pulse 2s infinite;
   animation: cd-pulse 2s infinite;
 }
-/* MA Trust */
+/* MA Trust - Woburn */
 .cd-single-point:nth-of-type(1) {
   bottom: 73%;
   right: 5%;
 }
-/* MI Trust */
+/* MI Trust - Richland */
 .cd-single-point:nth-of-type(2) {
   top: 32%;
   right: 30%;
 }
-/* AR Trust */
+/* AR Trust - Plainview */
 .cd-single-point:nth-of-type(3) {
   bottom: 34%;
   right: 44%;
@@ -183,10 +183,10 @@ header h1 {
   top: 9%;
   left: 19%;
 }
-/* Savannah Trust -  */
+/* GA Trust - Savannah */
 .cd-single-point:nth-of-type(8) {
-  bottom: 41%;
-  right: 15%;
+  bottom: 40%;
+  right: 13%;
 }
 /* Unkown Trust - */
 .cd-single-point:nth-of-type(9) {
