@@ -161,7 +161,7 @@ header h1 {
   right: 42%;
 }
 .cd-single-point:nth-of-type(4) {
-  top: 17%;
+  top: 14%;
   left: 22%;
 }
 .cd-single-point:nth-of-type(5) {
@@ -173,8 +173,8 @@ header h1 {
   right: 50%;
 }
 .cd-single-point:nth-of-type(7) {
-  bottom: 40%;
-  right: 20%;
+  top: 6%;
+  left: 18%;
 }
 .cd-single-point:nth-of-type(8) {
   top: 40%;
