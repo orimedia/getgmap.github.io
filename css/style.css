@@ -198,6 +198,7 @@ header h1 {
 }
 .cd-single-point.is-open > a {
   background-color: #2BB673;
+  z-index:9999;
 }
 .cd-single-point.is-open > a::after, .cd-single-point.is-open > a::before {
   -webkit-transform: translateX(-50%) translateY(-50%) rotate(135deg);
@@ -317,7 +318,7 @@ header h1 {
   height: 0;
   width: 0;
   display: none;
-  border: 12px solid transparent;
+  border: 8px solid transparent;
 }
 .cd-single-point .cd-more-info h2 {
   color: #006838;
@@ -331,7 +332,7 @@ header h1 {
   padding-left: 1em;
 }
 .bolding-spot {
-  font-weight: "bold;
+  font-weight: bold;
 }
 @media only screen and (min-width: 600px) {
   .cd-single-point .cd-more-info {
