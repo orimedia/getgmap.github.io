@@ -158,11 +158,11 @@ header h1 {
 }
 .cd-single-point:nth-of-type(3) {
   bottom: 34%;
-  right: 42%;
+  right: 44%;
 }
 .cd-single-point:nth-of-type(4) {
   top: 14%;
-  left: 22%;
+  left: 25%;
 }
 .cd-single-point:nth-of-type(5) {
   top: 40%;
@@ -173,8 +173,8 @@ header h1 {
   right: 50%;
 }
 .cd-single-point:nth-of-type(7) {
-  top: 6%;
-  left: 18%;
+  top: 8%;
+  left: 21%;
 }
 .cd-single-point:nth-of-type(8) {
   top: 40%;
