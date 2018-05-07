@@ -175,7 +175,7 @@ header h1 {
 }
 /* MT Trust - */
 .cd-single-point:nth-of-type(6) {
-  top: 40%;
+  top: 20%;
   right: 50%;
 }
 /* MT Trust - Superior  */
@@ -183,12 +183,12 @@ header h1 {
   top: 9%;
   left: 20%;
 }
-/* MT Trust -  */
+/* Savannah Trust -  */
 .cd-single-point:nth-of-type(8) {
-  top: 60%;
-  right: 45%;
+  bottom: 41%;
+  right: 15%;
 }
-/* Savannah Trust - */
+/* Unkown Trust - */
 .cd-single-point:nth-of-type(9) {
   bottom: 40%;
   right: 10%;
