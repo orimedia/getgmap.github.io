@@ -104,6 +104,9 @@ header h1 {
   -moz-transition: background-color 0.2s;
   transition: background-color 0.2s;
 }
+.cd-single-point > a:hover {
+  background-color:#2BB673;
+}
 .cd-single-point > a::after, .cd-single-point > a:before {
   /* rotating plus icon */
   content: '';
@@ -194,7 +197,7 @@ header h1 {
   right: 10%;
 }
 .cd-single-point.is-open > a {
-  background-color: #475f74;
+  background-color: #2BB673;
 }
 .cd-single-point.is-open > a::after, .cd-single-point.is-open > a::before {
   -webkit-transform: translateX(-50%) translateY(-50%) rotate(135deg);
@@ -222,16 +225,16 @@ header h1 {
 
 @media only screen and (min-width: 600px) {
   .cd-single-point.is-open .cd-more-info.cd-left {
-    right: 140%;
+    right: 165%;
   }
   .cd-single-point.is-open .cd-more-info.cd-right {
-    left: 140%;
+    left: 165%;
   }
   .cd-single-point.is-open .cd-more-info.cd-top {
-    bottom: 140%;
+    bottom: 165%;
   }
   .cd-single-point.is-open .cd-more-info.cd-bottom {
-    top: 140%;
+    top: 165%;
   }
 }
 
@@ -314,7 +317,7 @@ header h1 {
   height: 0;
   width: 0;
   display: none;
-  border: 8px solid transparent;
+  border: 12px solid transparent;
 }
 .cd-single-point .cd-more-info h2 {
   color: #006838;
