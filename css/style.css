@@ -148,41 +148,50 @@ header h1 {
   -moz-animation: cd-pulse 2s infinite;
   animation: cd-pulse 2s infinite;
 }
+/* MA Trust */
 .cd-single-point:nth-of-type(1) {
   bottom: 73%;
   right: 5%;
 }
+/* MI Trust */
 .cd-single-point:nth-of-type(2) {
-  bottom: 68%;
+  top: 32%;
   right: 30%;
 }
+/* AR Trust */
 .cd-single-point:nth-of-type(3) {
   bottom: 34%;
   right: 44%;
 }
+/* MT Trust - East Helena */
 .cd-single-point:nth-of-type(4) {
   top: 14%;
   left: 25%;
 }
+/* MT Trust - */
 .cd-single-point:nth-of-type(5) {
   top: 40%;
   right: 55%;
 }
+/* MT Trust - */
 .cd-single-point:nth-of-type(6) {
   top: 40%;
   right: 50%;
 }
+/* MT Trust - Superior  */
 .cd-single-point:nth-of-type(7) {
-  top: 8%;
-  left: 21%;
+  top: 9%;
+  left: 20%;
 }
+/* MT Trust -  */
 .cd-single-point:nth-of-type(8) {
-  top: 40%;
+  top: 60%;
   right: 45%;
 }
+/* Savannah Trust - */
 .cd-single-point:nth-of-type(9) {
-  top: 40%;
-  right: 30%;
+  bottom: 40%;
+  right: 10%;
 }
 .cd-single-point.is-open > a {
   background-color: #475f74;
