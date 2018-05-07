@@ -168,6 +168,22 @@ header h1 {
   top: 40%;
   right: 50%;
 }
+.cd-single-point:nth-of-type(6) {
+  top: 40%;
+  right: 50%;
+}
+.cd-single-point:nth-of-type(7) {
+  top: 40%;
+  right: 50%;
+}
+.cd-single-point:nth-of-type(8) {
+  top: 40%;
+  right: 50%;
+}
+.cd-single-point:nth-of-type(9) {
+  top: 40%;
+  right: 50%;
+}
 .cd-single-point.is-open > a {
   background-color: #475f74;
 }
