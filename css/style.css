@@ -155,7 +155,7 @@ header h1 {
 }
 /* MI Trust - Richland */
 .cd-single-point:nth-of-type(2) {
-  top: 32%;
+  top: 30%;
   right: 30%;
 }
 /* AR Trust - Plainview */
@@ -171,12 +171,12 @@ header h1 {
 /* MT Trust - Lincoln */
 .cd-single-point:nth-of-type(5) {
   top: 12%;
-  left: 22%;
+  left: 24%;
 }
 /* MT Trust - Hall */
 .cd-single-point:nth-of-type(6) {
   top: 14%;
-  left: 20%;
+  left: 21%;
 }
 /* MT Trust - Superior  */
 .cd-single-point:nth-of-type(7) {
