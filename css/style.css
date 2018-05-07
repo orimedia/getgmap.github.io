@@ -147,9 +147,9 @@ header h1 {
   left: 0;
   border-radius: inherit;
   background-color: transparent;
-  -webkit-animation: cd-pulse 2s infinite;
-  -moz-animation: cd-pulse 2s infinite;
-  animation: cd-pulse 2s infinite;
+  -webkit-animation: cd-pulse 1s infinite;
+  -moz-animation: cd-pulse 1s infinite;
+  animation: cd-pulse 1s infinite;
 }
 /* MA Trust - Woburn */
 .cd-single-point:nth-of-type(1) {
