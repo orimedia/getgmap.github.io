@@ -100,7 +100,6 @@ header h1 {
   height: 1em;
   border-radius: inherit;
   background: #006838;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3), inset 0 2px 0 rgba(255, 255, 255, 0.3);
   -webkit-transition: background-color 0.2s;
   -moz-transition: background-color 0.2s;
   transition: background-color 0.2s;
@@ -195,13 +194,7 @@ header h1 {
   -moz-transition: opacity 0.3s 0s, visibility 0s 0s, -moz-transform 0.3s 0s, top 0.3s 0s, bottom 0.3s 0s, left 0.3s 0s, right 0.3s 0s;
   transition: opacity 0.3s 0s, visibility 0s 0s, transform 0.3s 0s, top 0.3s 0s, bottom 0.3s 0s, left 0.3s 0s, right 0.3s 0s;
 }
-.cd-single-point.visited > a {
-  background-color: #475f74;
-}
-.cd-single-point.visited::after {
-  /* pulse effect no more active on visited elements */
-  display: none;
-}
+
 @media only screen and (min-width: 600px) {
   .cd-single-point.is-open .cd-more-info.cd-left {
     right: 140%;
