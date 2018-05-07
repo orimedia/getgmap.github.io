@@ -331,14 +331,11 @@ header h1 {
   font-weight: "bold;
 }
 @media only screen and (min-width: 600px) {
-  .cd-single-point .cd-more-info h2, .cd-single-point .cd-more-info p {
-    display:block;
-    clear:both;
-  }
   .cd-single-point .cd-more-info {
     position: absolute;
-    width: 270px;
+    width: 300px;
     min-height: 180px;
+    height:auto;
     padding: 1em;
     overflow-y: visible;
     line-height: 1.4;
@@ -422,6 +419,9 @@ header h1 {
     font-size: 14px;
     font-size: 0.875rem;
   }
+  .cd-single-point .cd-more-info a:hover {
+    color:#2BB673;
+  }  
 }
 
 /* close the interest point description - only on mobile */
