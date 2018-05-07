@@ -149,11 +149,11 @@ header h1 {
   animation: cd-pulse 2s infinite;
 }
 .cd-single-point:nth-of-type(1) {
-  bottom: 85%;
+  bottom: 75%;
   right: 5%;
 }
 .cd-single-point:nth-of-type(2) {
-  bottom: 85%;
+  bottom: 75%;
   right: 30%;
 }
 .cd-single-point:nth-of-type(3) {
@@ -166,7 +166,7 @@ header h1 {
 }
 .cd-single-point:nth-of-type(5) {
   top: 40%;
-  right: 50%;
+  right: 55%;
 }
 .cd-single-point:nth-of-type(6) {
   top: 40%;
@@ -174,15 +174,15 @@ header h1 {
 }
 .cd-single-point:nth-of-type(7) {
   top: 40%;
-  right: 50%;
+  right: 40%;
 }
 .cd-single-point:nth-of-type(8) {
   top: 40%;
-  right: 50%;
+  right: 45%;
 }
 .cd-single-point:nth-of-type(9) {
   top: 40%;
-  right: 50%;
+  right: 30%;
 }
 .cd-single-point.is-open > a {
   background-color: #475f74;
