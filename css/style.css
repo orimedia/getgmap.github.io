@@ -334,12 +334,11 @@ header h1 {
   .cd-single-point .cd-more-info {
     position: absolute;
     width: 270px;
-    height: 240px;
+    min-height: 180px;
     padding: 1em;
     overflow-y: visible;
     line-height: 1.4;
     border-radius: 0.937em;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   }
   .cd-single-point .cd-more-info::before {
     display: block;
