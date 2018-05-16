@@ -186,40 +186,40 @@ header h1 {
   top: 9%;
   left: 19%;
 }
-/* GA Trust - Savannah */
+/* GA Trust - Birmingport */
 .cd-single-point:nth-of-type(8) {
-  bottom: 40%;
-  right: 13%;
-}
-/* MultiState Trust - Birmingport */
-.cd-single-point:nth-of-type(9) {
-  bottom: 32%;
+  bottom: 20%;
   right: 40%;
+}
+/* MultiState Trust - ??? */
+.cd-single-point:nth-of-type(9) {
+  bottom: 10%;
+  right: 10%;
 }
 /* MultiState Trust - Mobile State */
 .cd-single-point:nth-of-type(10) {
-  bottom: 28%;
-  right: 40%;
+  bottom: 20%;
+  right: 20%;
 }
 /* MultiState Trust - Jacksonville */
 .cd-single-point:nth-of-type(11) {
-  bottom: 28%;
-  right: 20%;
+  bottom: 30%;
+  right: 30%;
 }
 /* MultiState Trust - Jacksonville Petrol */
 .cd-single-point:nth-of-type(12) {
-  bottom: 28%;
-  right: 20%;
+  bottom: 40%;
+  right: 40%;
 }
 /* MultiState Trust - Madison */
 .cd-single-point:nth-of-type(13) {
-  top: 44%;
-  right: 35%;
+  bottom: 50%;
+  right: 50%;
 }
 /* MultiState Trust - Savannah */
 .cd-single-point:nth-of-type(14) {
-  bottom: 32%;
-  right: 40%;
+  bottom: 60%;
+  right: 60%;
 }
 .cd-single-point.is-open > a {
   background-color: #2BB673;
