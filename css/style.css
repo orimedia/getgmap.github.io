@@ -208,18 +208,18 @@ header h1 {
 }
 /* MultiState Trust - Soad Springs */
 .cd-single-point:nth-of-type(12) {
-  top: 20%;
-  left: 20%;
+  top: 26%;
+  left: 23%;
 }
 /* MultiState Trust - Madison */
 .cd-single-point:nth-of-type(13) {
-  top: 15%;
-  right: 15%;
+  top: 30%;
+  right: 45%;
 }
 /* Savannah Trust */
 .cd-single-point:nth-of-type(14) {
   bottom: 40%;
-  right: 20%;
+  right: 15%;
 }
 .cd-single-point.is-open > a {
   background-color: #2BB673;
