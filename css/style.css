@@ -189,12 +189,12 @@ header h1 {
 /* MultiState Trust - Birmingport */
 .cd-single-point:nth-of-type(8) {
   bottom: 25%;
-  right: 18%;
+  right: 28%;
 }
-/* MultiState Trust - Theodore */
+/* MultiState Trust - Mobile */
 .cd-single-point:nth-of-type(9) {
-  bottom: 30%;
-  right: 30%;
+  bottom: 20%;
+  right: 32%;
 }
 /* MultiState Trust - Jacksonville Chem */
 .cd-single-point:nth-of-type(10) {
@@ -213,8 +213,8 @@ header h1 {
 }
 /* MultiState Trust - Madison */
 .cd-single-point:nth-of-type(13) {
-  top: 40%;
-  right: 40%;
+  top: 50%;
+  right: 30%;
 }
 /* Savannah Trust */
 .cd-single-point:nth-of-type(14) {
