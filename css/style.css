@@ -186,12 +186,12 @@ header h1 {
   top: 9%;
   left: 19%;
 }
-/* GA Trust - Birmingport */
+/* MultiState Trust - Birmingport */
 .cd-single-point:nth-of-type(8) {
   bottom: 20%;
   right: 40%;
 }
-/* MultiState Trust - ??? */
+/* MultiState Trust - Theodore */
 .cd-single-point:nth-of-type(9) {
   bottom: 10%;
   right: 10%;
@@ -201,25 +201,30 @@ header h1 {
   bottom: 20%;
   right: 20%;
 }
-/* MultiState Trust - Jacksonville */
+/* MultiState Trust - Jacksonville Chem */
 .cd-single-point:nth-of-type(11) {
-  bottom: 30%;
-  right: 30%;
+  bottom: 33%;
+  right: 28%;
 }
 /* MultiState Trust - Jacksonville Petrol */
 .cd-single-point:nth-of-type(12) {
-  bottom: 40%;
-  right: 40%;
+  bottom: 33%;
+  right: 30%;
+}
+/* MultiState Trust - Soda Springs */
+.cd-single-point:nth-of-type(13) {
+  top: 30%;
+  left: 30%;
 }
 /* MultiState Trust - Madison */
-.cd-single-point:nth-of-type(13) {
-  bottom: 50%;
-  right: 50%;
-}
-/* MultiState Trust - Savannah */
 .cd-single-point:nth-of-type(14) {
-  bottom: 60%;
-  right: 60%;
+  top: 40%;
+  right: 45%;
+}
+/* GA Trust - Savannah */
+.cd-single-point:nth-of-type(15) {
+  bottom: 40%;
+  right: 15%;
 }
 .cd-single-point.is-open > a {
   background-color: #2BB673;
