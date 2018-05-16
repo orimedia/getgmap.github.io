@@ -211,14 +211,14 @@ header h1 {
   bottom: 28%;
   right: 20%;
 }
-/* MultiState Trust - Soda Springs */
-.cd-single-point:nth-of-type(13) {
-  top: 24%;
-  left: 25%;
-}
 /* MultiState Trust - Madison */
+.cd-single-point:nth-of-type(13) {
+  top: 44%;
+  right: 35%;
+}
+/* MultiState Trust - Savannah */
 .cd-single-point:nth-of-type(14) {
-  top: 40%;
+  bottom: 32%;
   right: 40%;
 }
 .cd-single-point.is-open > a {
