@@ -164,7 +164,7 @@ header h1 {
 /* AR Trust - Plainview */
 .cd-single-point:nth-of-type(3) {
   bottom: 35%;
-  right: 40;
+  right: 40%;
 }
 /* MT Trust - East Helena */
 .cd-single-point:nth-of-type(4) {
@@ -204,22 +204,22 @@ header h1 {
 /* MultiState Trust - Jacksonville Petrol */
 .cd-single-point:nth-of-type(11) {
   bottom: 23%;
-  right: 18%;
+  right: 19%;
 }
 /* MultiState Trust - Soad Springs */
 .cd-single-point:nth-of-type(12) {
-  top: 26%;
+  top: 28%;
   left: 23%;
 }
 /* MultiState Trust - Madison */
 .cd-single-point:nth-of-type(13) {
-  top: 30%;
-  right: 45%;
+  top: 40%;
+  right: 40%;
 }
 /* Savannah Trust */
 .cd-single-point:nth-of-type(14) {
   bottom: 40%;
-  right: 15%;
+  right: 13%;
 }
 .cd-single-point.is-open > a {
   background-color: #2BB673;
