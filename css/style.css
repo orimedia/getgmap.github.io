@@ -218,9 +218,93 @@ header h1 {
 }
 /* Savannah Trust */
 .cd-single-point:nth-of-type(14) {
+  bottom: 30%;
+  right: 23%;
+}
+
+/* NEW SITES */
+
+/* MultiState Trust - Sauget */
+.cd-single-point:nth-of-type(15) {
+  top: 48%;
+  right: 38%;
+}
+/* MultiState Trust - Rushville */
+.cd-single-point:nth-of-type(16) {
+  top: 45%;
+  right: 25%;
+}
+/* MultiState Trust - Indianapolis */
+.cd-single-point:nth-of-type(17) {
+  top: 48%;
+  right: 28%;
+}
+/* MultiState Trust - Calhoun */
+.cd-single-point:nth-of-type(18) {
+  bottom: 20%;
+  right: 40%;
+}
+/* MultiState Trust - Bossier */
+.cd-single-point:nth-of-type(19) {
+  bottom: 20%;
+  right: 45%;
+}
+/* MultiState Trust - Kansas */
+.cd-single-point:nth-of-type(20) {
+  top: 51%;
+  right: 48%;
+}
+/* MultiState Trust - Springfield */
+.cd-single-point:nth-of-type(21) {
+  top: 52%;
+  right: 48%;
+}
+/* MultiState Trust - Columbus */
+.cd-single-point:nth-of-type(22) {
+  bottom: 30%;
+  right: 38%;
+}
+/* MultiState Trust - Meridian */
+.cd-single-point:nth-of-type(23) {
+  bottom: 26%;
+  right: 38%;
+}
+/* MultiState Trust - Navassa */
+.cd-single-point:nth-of-type(24) {
   bottom: 40%;
   right: 13%;
 }
+/* MultiState Trust - Bristol */
+.cd-single-point:nth-of-type(25) {
+  top: 48%;
+  left: 25%;
+}
+/* MultiState Trust - Caselton */
+.cd-single-point:nth-of-type(26) {
+  top: 49%;
+  left: 26%;
+}
+/* MultiState Trust - Rome */
+.cd-single-point:nth-of-type(27) {
+  top: 13%;
+  right: 15%;
+}
+/* MultiState Trust - Cleveland */
+.cd-single-point:nth-of-type(28) {
+  bottom: 38%;
+  right: 49%;
+}
+/* MultiState Trust - Cushing */
+.cd-single-point:nth-of-type(29) {
+  bottom: 37%;
+  right: 48%;
+}
+/* MultiState Trust - Avoca */
+.cd-single-point:nth-of-type(30) {
+  top: 20%;
+  right: 15%;
+}
+
 .cd-single-point.is-open > a {
   background-color: #2BB673;
   z-index:9999;
