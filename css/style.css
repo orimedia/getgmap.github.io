@@ -188,8 +188,8 @@ header h1 {
 }
 /* MultiState Trust - Birmingport */
 .cd-single-point:nth-of-type(8) {
-  bottom: 25%;
-  right: 33%;
+  bottom: 24%;
+  right: 31%;
 }
 /* MultiState Trust - Mobile */
 .cd-single-point:nth-of-type(9) {
@@ -232,11 +232,11 @@ header h1 {
 /* MultiState Trust - Rushville */
 .cd-single-point:nth-of-type(16) {
   top: 43%;
-  right: 35%;
+  right: 30%;
 }
 /* MultiState Trust - Indianapolis */
 .cd-single-point:nth-of-type(17) {
-  top: 42%;
+  top: 40%;
   right: 30%;
 }
 /* MultiState Trust - Calhoun */
@@ -252,12 +252,12 @@ header h1 {
 /* MultiState Trust - Kansas */
 .cd-single-point:nth-of-type(20) {
   top: 48%;
-  right: 46%;
+  right: 44%;
 }
 /* MultiState Trust - Springfield */
 .cd-single-point:nth-of-type(21) {
   top: 52%;
-  right: 46%;
+  right: 43%;
 }
 /* MultiState Trust - Columbus */
 .cd-single-point:nth-of-type(22) {
@@ -276,12 +276,12 @@ header h1 {
 }
 /* MultiState Trust - Bristol */
 .cd-single-point:nth-of-type(25) {
-  top: 48%;
-  left: 12%;
+  top: 40%;
+  left: 11%;
 }
 /* MultiState Trust - Caselton */
 .cd-single-point:nth-of-type(26) {
-  top: 49%;
+  top: 42%;
   left: 13%;
 }
 /* MultiState Trust - Rome */
@@ -291,13 +291,13 @@ header h1 {
 }
 /* MultiState Trust - Cleveland */
 .cd-single-point:nth-of-type(28) {
-  bottom: 35%;
+  bottom: 42%;
   right: 49%;
 }
 /* MultiState Trust - Cushing */
 .cd-single-point:nth-of-type(29) {
-  bottom: 34%;
-  right: 48%;
+  bottom: 40%;
+  right: 47%;
 }
 /* MultiState Trust - Avoca */
 .cd-single-point:nth-of-type(30) {
