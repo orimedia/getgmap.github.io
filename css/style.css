@@ -219,55 +219,55 @@ header h1 {
 /* Savannah Trust */
 .cd-single-point:nth-of-type(14) {
   bottom: 30%;
-  right: 23%;
+  right: 18%;
 }
 
 /* NEW SITES */
 
 /* MultiState Trust - Sauget */
 .cd-single-point:nth-of-type(15) {
-  top: 48%;
-  right: 38%;
+  top: 45%;
+  right: 37%;
 }
 /* MultiState Trust - Rushville */
 .cd-single-point:nth-of-type(16) {
-  top: 45%;
-  right: 25%;
+  top: 43%;
+  right: 35%;
 }
 /* MultiState Trust - Indianapolis */
 .cd-single-point:nth-of-type(17) {
-  top: 48%;
-  right: 28%;
+  top: 42%;
+  right: 30%;
 }
 /* MultiState Trust - Calhoun */
 .cd-single-point:nth-of-type(18) {
-  bottom: 20%;
+  bottom: 24%;
   right: 40%;
 }
 /* MultiState Trust - Bossier */
 .cd-single-point:nth-of-type(19) {
-  bottom: 20%;
-  right: 45%;
+  bottom: 23%;
+  right: 41%;
 }
 /* MultiState Trust - Kansas */
 .cd-single-point:nth-of-type(20) {
-  top: 51%;
-  right: 48%;
+  top: 48%;
+  right: 46%;
 }
 /* MultiState Trust - Springfield */
 .cd-single-point:nth-of-type(21) {
   top: 52%;
-  right: 48%;
+  right: 46%;
 }
 /* MultiState Trust - Columbus */
 .cd-single-point:nth-of-type(22) {
   bottom: 30%;
-  right: 38%;
+  right: 34%;
 }
 /* MultiState Trust - Meridian */
 .cd-single-point:nth-of-type(23) {
-  bottom: 26%;
-  right: 38%;
+  bottom: 27%;
+  right: 34%;
 }
 /* MultiState Trust - Navassa */
 .cd-single-point:nth-of-type(24) {
@@ -277,32 +277,32 @@ header h1 {
 /* MultiState Trust - Bristol */
 .cd-single-point:nth-of-type(25) {
   top: 48%;
-  left: 25%;
+  left: 12%;
 }
 /* MultiState Trust - Caselton */
 .cd-single-point:nth-of-type(26) {
   top: 49%;
-  left: 26%;
+  left: 13%;
 }
 /* MultiState Trust - Rome */
 .cd-single-point:nth-of-type(27) {
-  top: 13%;
-  right: 15%;
+  top: 23%;
+  right: 13%;
 }
 /* MultiState Trust - Cleveland */
 .cd-single-point:nth-of-type(28) {
-  bottom: 38%;
+  bottom: 35%;
   right: 49%;
 }
 /* MultiState Trust - Cushing */
 .cd-single-point:nth-of-type(29) {
-  bottom: 37%;
+  bottom: 34%;
   right: 48%;
 }
 /* MultiState Trust - Avoca */
 .cd-single-point:nth-of-type(30) {
-  top: 20%;
-  right: 15%;
+  top: 33%;
+  right: 13%;
 }
 
 .cd-single-point.is-open > a {
