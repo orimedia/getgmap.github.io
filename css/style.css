@@ -221,9 +221,6 @@ header h1 {
   bottom: 30%;
   right: 18%;
 }
-
-/* NEW SITES */
-
 /* MultiState Trust - Sauget */
 .cd-single-point:nth-of-type(15) {
   top: 45%;
@@ -304,6 +301,76 @@ header h1 {
   top: 33%;
   right: 13%;
 }
+
+
+
+
+/* NEW SITES */
+
+
+
+
+/* MultiState Trust - Corpus Christi */
+.cd-single-point:nth-of-type(31) {
+  bottom: 10%;
+  right: 49%;
+}
+/* MultiState Trust - Texarkana */
+.cd-single-point:nth-of-type(32) {
+  bottom: 30%;
+  right: 45%;
+}
+/* MultiState Trust - Beaumont */
+.cd-single-point:nth-of-type(33) {
+  bottom: 20%;
+  right: 45%;
+}
+/* MultiState Trust - Red Mountain AZ */
+.cd-single-point:nth-of-type(34) {
+  bottom: 40%;
+  left: 25%;
+}
+/* MultiState Trust - Vernon */
+.cd-single-point:nth-of-type(35) {
+  bottom: 35%;
+  left: 10%;
+}
+/* MultiState Trust - Red Mountain CO */
+.cd-single-point:nth-of-type(36) {
+  bottom: 48%;
+  left: 33%;
+}
+/* MultiState Trust - Florida Polk */
+.cd-single-point:nth-of-type(37) {
+  bottom: 13%;
+  right: 21%;
+}
+/* MultiState Trust - Denmark */
+.cd-single-point:nth-of-type(38) {
+  bottom: 78%;
+  right: 5%;
+}
+/* MultiState Trust - Hattiesburg */
+.cd-single-point:nth-of-type(39) {
+  bottom: 26%;
+  right: 37%;
+}
+/* MultiState Trust - LaGrange */
+.cd-single-point:nth-of-type(40) {
+  bottom: 30%;
+  right: 20%;
+}
+/* MultiState Trust - Nashville */
+.cd-single-point:nth-of-type(41) {
+  bottom: 42%;
+  right: 30%;
+}
+/* MultiState Trust - Moss American Milwaukee */
+.cd-single-point:nth-of-type(42) {
+  top: 30%;
+  right: 40%;
+}
+
 
 .cd-single-point.is-open > a {
   background-color: #2BB673;
