@@ -312,38 +312,38 @@ header h1 {
 
 /* MultiState Trust - Corpus Christi */
 .cd-single-point:nth-of-type(31) {
-  bottom: 10%;
-  right: 49%;
+  bottom: 14%;
+  right: 51%;
 }
 /* MultiState Trust - Texarkana */
 .cd-single-point:nth-of-type(32) {
-  bottom: 30%;
+  bottom: 32%;
   right: 45%;
 }
 /* MultiState Trust - Beaumont */
 .cd-single-point:nth-of-type(33) {
-  bottom: 20%;
-  right: 45%;
+  bottom: 24%;
+  right: 47%;
 }
 /* MultiState Trust - Red Mountain AZ */
 .cd-single-point:nth-of-type(34) {
   bottom: 40%;
-  left: 25%;
+  left: 18%;
 }
 /* MultiState Trust - Vernon */
 .cd-single-point:nth-of-type(35) {
-  bottom: 35%;
-  left: 10%;
+  bottom: 50%;
+  left: 8%;
 }
 /* MultiState Trust - Red Mountain CO */
 .cd-single-point:nth-of-type(36) {
-  bottom: 48%;
-  left: 33%;
+  bottom: 50%;
+  left: 29%;
 }
 /* MultiState Trust - Florida Polk */
 .cd-single-point:nth-of-type(37) {
-  bottom: 13%;
-  right: 21%;
+  bottom: 14%;
+  right: 17%;
 }
 /* MultiState Trust - Denmark */
 .cd-single-point:nth-of-type(38) {
@@ -357,8 +357,8 @@ header h1 {
 }
 /* MultiState Trust - LaGrange */
 .cd-single-point:nth-of-type(40) {
-  bottom: 30%;
-  right: 20%;
+  top: 42%;
+  right: 41%;
 }
 /* MultiState Trust - Nashville */
 .cd-single-point:nth-of-type(41) {
@@ -368,7 +368,7 @@ header h1 {
 /* MultiState Trust - Moss American Milwaukee */
 .cd-single-point:nth-of-type(42) {
   top: 30%;
-  right: 40%;
+  right: 31%;
 }
 
 
