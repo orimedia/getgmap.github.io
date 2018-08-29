@@ -188,7 +188,7 @@ header h1 {
 }
 /* MultiState Trust - Birmingport */
 .cd-single-point:nth-of-type(8) {
-  bottom: 24%;
+  bottom: 26%;
   right: 31%;
 }
 /* MultiState Trust - Mobile */
@@ -238,8 +238,8 @@ header h1 {
 }
 /* MultiState Trust - Calhoun */
 .cd-single-point:nth-of-type(18) {
-  bottom: 24%;
-  right: 40%;
+  bottom: 28%;
+  right: 39%;
 }
 /* MultiState Trust - Bossier */
 .cd-single-point:nth-of-type(19) {
@@ -352,8 +352,8 @@ header h1 {
 }
 /* MultiState Trust - Hattiesburg */
 .cd-single-point:nth-of-type(39) {
-  bottom: 26%;
-  right: 37%;
+  bottom: 29%;
+  right: 36%;
 }
 /* MultiState Trust - LaGrange */
 .cd-single-point:nth-of-type(40) {
