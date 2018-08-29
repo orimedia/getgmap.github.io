@@ -274,12 +274,12 @@ header h1 {
 /* MultiState Trust - Bristol */
 .cd-single-point:nth-of-type(25) {
   top: 40%;
-  left: 11%;
+  left: 15%;
 }
 /* MultiState Trust - Caselton */
 .cd-single-point:nth-of-type(26) {
   top: 42%;
-  left: 13%;
+  left: 17%;
 }
 /* MultiState Trust - Rome */
 .cd-single-point:nth-of-type(27) {
@@ -288,8 +288,8 @@ header h1 {
 }
 /* MultiState Trust - Cleveland */
 .cd-single-point:nth-of-type(28) {
-  bottom: 42%;
-  right: 49%;
+  bottom: 41%;
+  left: 49%;
 }
 /* MultiState Trust - Cushing */
 .cd-single-point:nth-of-type(29) {
@@ -327,8 +327,8 @@ header h1 {
 }
 /* MultiState Trust - Red Mountain AZ */
 .cd-single-point:nth-of-type(34) {
-  bottom: 40%;
-  left: 21%;
+  bottom: 38%;
+  left: 20%;
 }
 /* MultiState Trust - Vernon */
 .cd-single-point:nth-of-type(35) {
